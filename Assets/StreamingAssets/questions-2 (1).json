@@ -1,0 +1,447 @@
+{
+    "allRoundData": [
+        {
+            "name": "Animals",
+            "pointsAddedForCorrectAnswer": 60,
+            "timeLimitInSeconds": 80,
+            "questions": [
+                {
+                    "id": 0,
+                    "title": "تعمل ايه عشان تشتغل؟",
+                    "answers": [
+                        {         
+                            "text": "تسافر و تسيب اهلك",
+                            "response": "[frown]",
+                            "effects":[3,0,3,1,0]
+                        },
+                        {
+                            "text": "تقدم علي شغل كتير اونلاين ",
+                            "response": "[frown]",
+                            "effects":[-1,0,1,1,0]
+                        },
+                        {
+                            "text": "تاخد قرض و تفتح مشروع صغير",
+                            "response": "[thinking]",
+                            "effects":[3,0,3,1,0]
+                        }
+                        
+                    ]
+                },
+                {
+                    "id": 1,
+                    "title": "لوالمدير اتاخر علي اول مقابله ليك في الشغل؟",
+                    "answers": [
+                        {
+ 
+                            "text": "هتعاتبه بشياكه",
+                            "response": "[frown]",
+                            "effects":[0,2,0,1,0]
+                        },
+                        {
+                            "text": "هتسيب المقابله و تمشي",
+                            "response": "[frown]",
+                            "effects":[0,-3,2,1,0]
+                        },
+                        {
+                            "text": "هتعدي الموضوع و تكبر",
+                            "response": "[thinking]",
+                            "effects":[0,1,0,-2,0]
+                        }
+                        
+                    ]
+                },
+                {
+                
+                    "id": 2,
+                    "title": "تروح اول مقبله للشغل",
+                    "answers": [
+                        {
+                            "text": "بجينز و قميص",
+                            "response": "[frown]",
+                            "effects":[0,0,0,0,0]
+                        },
+                        {
+                            "text": "لبس رسمي",
+                            "response": "[frown]",
+                            "effects":[0,0,0,0,0]
+                        },
+                        {
+                            "text": "محدش بيركز",
+                            "response": "[thinking]",
+                            "effects":[0,0,0,0,0]
+                        }
+                        
+                    ]
+                },
+                {
+
+                    "id": 3,
+                    "title": "لو انت متاكد المدير بتاعك غلط",
+                    "answers": [
+                        {
+                            "text": "تكذب وتقله انه صح",
+                            "response": "[frown]",
+                            "effects":[0,2,-1,-3,0]
+                        },
+                        {
+                            "text": "تعمل نفيك من بنها",
+                            "response": "[frown]",
+                            "effects":[0,2,0,-2,0]
+                        },
+                        {
+                            "text": "تقله حتي لو هيتعصب عليك",
+                            "response": "[thinking]",
+                            "effects":[0,0,0,3,0]
+                        }
+                        
+                    ]
+                },
+                {
+
+                    "id": 4,
+                    "title": "لو زميلك سالك تسعاده في شغل مش تخصصك والمدير ممكن يقفش",
+                    "answers": [
+                        {
+                            "text": "تساعده",
+                            "response": "[frown]",
+                            "effects":[0,-1,0,-1,3]
+                        },
+                        {
+                            "text": "تفكسله",
+                            "response": "[frown]",
+                            "effects":[0,2,0,0,-2]
+                        },
+                        {
+                            "text": "تاخد اذن من مديرك",
+                            "response": "[thinking]",
+                            "effects":[0,3,0,0,2]
+                        }
+                        
+                    ]
+                },
+                {
+
+                    "id": 5,
+                    "title": "لو اطلب منك شغل اكتر من طقتاك",
+                    "answers": [
+                        {
+                            "text": "متعرتشض بس انت عارف انك مشتحيل تخلصه",
+                            "response": "[frown]",
+                            "effects":[1,2,0,-2,0]
+                        },
+                        {
+                            "text": "تفهم مديرك وتطلب منه يخفف الشغل",
+                            "response": "[frown]",
+                            "effects":[0,2,0,2,0]
+                        },
+                        {
+                            "text": "تطلب مساعده من زميلك من ورا المدير",
+                            "response": "[thinking]",
+                            "effects":[0,-3,0,-1,2]
+                        }
+                        
+                    ]
+                },
+
+                {
+                    "id": 6,
+                    "title": "لو قشت زميلك بيسرق من الشغل",
+                    "answers": [
+                        {
+                            "text": "تحذره و تعدي اليله",
+                            "response": "[frown]",
+                            "effects":[0,-1,1,1,2]
+                        },
+                        {
+                            "text": "تفن عليه و تقول لمديرك",
+                            "response": "[frown]",
+                            "effects":[0,3,-1,2,-1]
+                        },
+                        {
+                            "text": "تعمل نفسك من بنها",
+                            "response": "[thinking]",
+                            "effects":[0,-2,-2,-2,-2]
+                        }
+                        
+                    ]
+                },
+                {
+
+                    "id": 7,
+                    "title": "لو راحت عليك نومه ",
+                    "answers": [
+                        {
+                            "text": "تاخذ عذز مرضي",
+                            "response": "[frown]",
+                            "effects":[0,1,0,-1,0]
+                        },
+                        {
+                            "text": "تروح الشغل ختي لو  في جزاه",
+                            "response": "[frown]",
+                            "effects":[2,2,1,2,0]
+                        },
+                        {
+                            "text": "تخلي زميلك يمضيلك",
+                            "response": "[thinking]",
+                            "effects":[0,-3,-1,-1,1]
+                        }
+                        
+                    ]
+                },
+                {
+
+                    "id": 8,
+                    "title": "لو اتزنقت في الشغل ",
+                    "answers": [
+                        {
+                            "text": "تتطلب مساعده",
+                            "response": "[frown]",
+                            "effects":[-1,1,-1,2,2]
+                        },
+                        {
+                            "text": "تفضل تحاول حتي لو معاد الشغل خلص",
+                            "response": "[frown]",
+                            "effects":[3,1,2,0,0]
+                        },
+                        {
+                            "text": "تاخد اذن انك تقسم الشغل علي اليوم الي بعده   ",
+                            "response": "[thinking]",
+                            "effects":[-2,2,-2,0,0]
+                        }
+                        
+                    ]
+                },
+                {
+
+                    "id": 9,
+                    "title": "لو اطلب منك تحول من مكان شغلك لمكان بعيد جدا بس رتبتك فيه اعلي ",
+                    "answers": [
+                        {
+                            "text": "ترفض بشياكه",
+                            "response": "[frown]",
+                            "effects":[-2,0,-1,1,0]
+                        },
+                        {
+                            "text": "توافق",
+                            "response": "[frown]",
+                            "effects":[3,1,1,0,0]
+                        },
+                        {
+                            "text": " تطلب بدل سكن",
+                            "response": "[thinking]",
+                            "effects":[1,1,0,2,0]
+                        }
+                        
+                    ]
+                },
+                {
+
+                    "id": 10,
+                    "title": "لو اطلب منك تروح شغل بمرتب اكبر بس رتبتك اقل ",
+                    "answers": [
+                        {
+                            "text": "تظ في المرتب",
+                            "response": "[frown]",
+                            "effects":[0,0,0,0,0]
+                        },
+                        {
+                            "text": "اوافق وش",
+                            "response": "[frown]",
+                            "effects":[0,0,0,0,0]
+                        },
+                        {
+                            "text": "اوافق علي حسب نوع الشغل و المكان-",
+                            "response": "[thinking]",
+                            "effects":[0,0,0,0,0]
+                        }
+                        
+                    ]
+                },
+                {
+
+                    "id": 11,
+                    "title": "لو الشركه كلها رايحه تلعب كره وانت ملكش فب الكره ",
+                    "answers": [
+                        {
+                            "text": "تروح معاهم",
+                            "response": "[frown]",
+                            "effects":[0,1,0,1,3]
+                        },
+                        {
+                            "text": "تفكس عسان ملكش في الكوره",
+                            "response": "[frown]",
+                            "effects":[0,0,0,2,-2]
+                        },
+                        {
+                            "text": "تروح تسلم عليهم و تمشي",
+                            "response": "[thinking]",
+                            "effects":[0,0,0,2,2]
+                        }
+                        
+                    ]
+                },
+
+                {
+                    "id": 13,
+                    "title": "بتتعامل مع الضغوط اذي",
+                    "answers": [
+                        {
+                            "text": "بتواجها علطول",
+                            "response": "[frown]",
+                            "effects":[2,0,2,2,0]
+                        },
+                        {
+                            "text": "بتطلب المساعده",
+                            "response": "[frown]",
+                            "effects":[0,0,-2,1,2]
+                        },
+                        {
+                            "text": "بتفكر بشويش حتي لو هتطول عشان تلاق حلول",
+                            "response": "[thinking]",
+                            "effects":[-1,0,1,2,-1]
+                        }
+                        
+                    ]
+                },
+                {
+
+                    "id": 14,
+                    "title": "لو انت مشرف علي حد اكبر منك في السن وغلط",
+                    "answers": [
+                        {
+                            "text": "هتوجه الشغل شغل",
+                            "response": "[frown]",
+                            "effects":[0,3,1,1,0]
+                        },
+                        {
+                            "text": "هتعدي الموضوع",
+                            "response": "[frown]",
+                            "effects":[0,-2,0,-2,0]
+                        },
+                        {
+                            "text": "هتفهمه الغلط بطريقه غير مباشره",
+                            "response": "[thinking]",
+                            "effects":[0,2,1,1,0]
+                        }
+                        
+                    ]
+                },
+                {
+
+                    "id": 15,
+                    "title": "لو حسيت في منافسه في الشغل",
+                    "answers": [
+                        {
+                            "text": "هتحخذك تشتغل",
+                            "response": "[frown]",
+                            "effects":[2,0,2,0,2]
+                        },
+                        {
+                            "text": "هتحس الناس بتيجي عليك",
+                            "response": "[frown]",
+                            "effects":[0,0,0,0,-2]
+                        },
+                        {
+                            "text": "هش بيفرق معاك",
+                            "response": "[thinking]",
+                            "effects":[0,0,0,0,0]
+                        }
+                        
+                    ]
+                },
+
+                {
+                    "id": 17,
+                    "title": "لما المدير يطلب منك شغل بطريقه و شايف في طريق احسن",
+                    "answers": [
+                        {
+                            "text": "بتعمل المطلوب بالظبط",
+                            "response": "[frown]",
+                            "effects":[-1,3,-1,0,0]
+                        },
+                        {
+                            "text": "هتبتكر و تعملها من وراه",
+                            "response": "[frown]",
+                            "effects":[2,-2,2,-2,0]
+                        },
+                        {
+                            "text": "تعملها و تقله كان في طريقه احسن",
+                            "response": "[thinking]",
+                            "effects":[1,2,0,2,0]
+                        }
+                    ]
+                },
+                {
+
+                    "id": 18,
+                    "title": "لو انت المدير تحفذ موظفينك ازاي",
+                    "answers": [
+                        {
+                            "text": "زياده العلوات",
+                            "response": "[frown]",
+                            "effects":[0,0,0,0,2]
+                        },
+                        {
+                            "text": "تنزل تشتغل معاهم",
+                            "response": "[frown]",
+                            "effects":[0,0,0,0,2]
+                        },
+                        {
+                            "text": "تعزمهم علي اكله حلوه",
+                            "response": "[thinking]",
+                            "effects":[0,0,1,0,1]
+                        }
+                    ]
+                },
+
+                {
+                    "id": 20,
+                    "title": "ايه الحجات الي  اكتسبتها في شغلاناتك قبل كده",
+                    "answers": [
+                        {
+                            "text": "احترام الوقت",
+                            "response": "[frown]",
+                            "effects":[0,0,2,0,0]
+                        },
+                        {
+                            "text": "معرفه زميلك",
+                            "response": "[frown]",
+                            "effects":[0,0,0,0,2]
+                        },
+                        {
+                            "text": "صنعه الشغل",
+                            "response": "[thinking]",
+                            "effects":[2,0,0,0,0]
+                        }
+                    ]
+                },
+                {
+//ambition,respect authority,independce , honesty,team work
+// change some values and polish questions 
+// add around 3-4 more questions
+//dont forget that independce is self deslpine too
+
+                    "id": 21,
+                    "title": "متوقع تقعد اد ايه",
+                    "answers": [
+                        {
+                            "text": "احترام الوقت",
+                            "response": "[frown]",
+                            "effects":[0,0,0,0,0]
+                        },
+                        {
+                            "text": "معرفه زميلك",
+                            "response": "[frown]",
+                            "effects":[0,0,0,0,0]
+                        },
+                        {
+                            "text": "صنعه الشغل",
+                            "response": "[thinking]",
+                            "effects":[0,0,0,0,0]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

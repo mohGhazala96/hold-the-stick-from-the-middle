@@ -1,0 +1,73 @@
+{
+  "allRoundData": [
+    {
+      "name": "Animals",
+      "pointsAddedForCorrectAnswer": 60,
+      "questions": [
+        {
+          "answers": [
+            {
+              "text": "True",
+              "isCorrect": true
+            },
+            {
+              "text": "False",
+              "isCorrect": false
+            }
+          ],
+          "title": "Lions are carnivores: true or false?",
+          "type": "quiz"
+        },
+        {
+          "answers": [
+            {
+              "text": "Pizza",
+              "isCorrect": false
+            },
+            {
+              "text": "Flies",
+              "isCorrect": true
+            }
+          ],
+          "title": "What do frogs eat?",
+          "type": "quiz"
+        },
+        {
+          "answers": [
+            {
+              "text": "In the sea",
+              "isCorrect": false
+            },
+            {
+              "text": "In the sea",
+              "isCorrect": false
+            },
+            {
+              "text": "In the sea",
+              "isCorrect": false
+            },
+            {
+              "text": "On the moon",
+              "isCorrect": false
+            },
+            {
+              "text": "On land",
+              "isCorrect": true
+            },
+            {
+              "text": "In a tree",
+              "isCorrect": false
+            }
+          ],
+          "title": "Where do mice live?",
+          "type": "quiz"
+        },
+        {
+        	"type":"miniGame",
+        	"gameName":"memory Game"
+        }
+      ],
+      "timeLimitInSeconds": 20
+    }
+  ]
+}
